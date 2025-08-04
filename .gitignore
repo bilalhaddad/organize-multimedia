@@ -1,0 +1,12 @@
+# macOS / Linux system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Organize script temp files
+*.md5
+*.tmpfile
